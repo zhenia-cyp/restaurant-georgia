@@ -1,2 +1,2 @@
 # restaurant-georgia
-html css sass
+html css sass responsive web design
